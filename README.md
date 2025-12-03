@@ -36,8 +36,7 @@ Este projeto é um aplicativo Android desenvolvido em **Java** no **Android Stud
 
 
 ```md
-![Screenshot 1](<img width="1080" height="1920" alt="Screenshot_20251202_213132" src="https://github.com/user-attachments/assets/dcba96fd-ec67-40f1-9f7a-ca8a358093a2" />
-)
+![Screenshot 1]([<img width="1080" height="1920" alt="Screenshot_20251202_213132" src="https://github.com/user-attachments/assets/dcba96fd-ec67-40f1-9f7a-ca8a358093a2" />](https://github.com/stephanimelo/Layout_Android_Studio/blob/main/Screenshot_20251202_213132.png?raw=true))
 ```
 
 Exemplo:
@@ -81,6 +80,7 @@ git clone https://github.com/stephanimelo/Layout_Android_Studio.git
 5. Clique em **Run ▶**
 
 ---
+
 
 
 
