@@ -36,7 +36,8 @@ Este projeto é um aplicativo Android desenvolvido em **Java** no **Android Stud
 
 
 ```md
-![Screenshot 1](https://github.com/stephanimelo/Layout_Android_Studio/blob/main/Screenshot_20251202_213132.png?raw=true)
+![Screenshot do Aplicativo](https://github.com/stephanimelo/Layout_Android_Studio/blob/main/Screenshot_20251202_213132.png?raw=true)
+
 ```
 
 Exemplo:
@@ -80,6 +81,7 @@ git clone https://github.com/stephanimelo/Layout_Android_Studio.git
 5. Clique em **Run ▶**
 
 ---
+
 
 
 
