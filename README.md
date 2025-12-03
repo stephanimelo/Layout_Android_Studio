@@ -1,7 +1,3 @@
-Claro! Vou montar um **README.md bonito, organizado e profissional**, com títulos (`#`), print, GIF/vídeo (caso você envie), e descrição do projeto Android que você fez.
-
-👇 **AQUI ESTÁ O README SUGERIDO PARA SEU REPOSITÓRIO**
-*(Você só precisa copiar e colar no README.md do GitHub)*
 
 ---
 
@@ -88,3 +84,4 @@ git clone https://github.com/stephanimelo/Layout_Android_Studio.git
 
 
 Quer que eu deixe ainda mais profissional? Quer que eu crie o GIF para você?
+
