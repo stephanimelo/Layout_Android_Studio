@@ -32,6 +32,9 @@ Este projeto é um aplicativo Android desenvolvido em **Java** no **Android Stud
 
 ---
 
+![Nome da Imagem](https://github.com/stephanimelo/Layout_Android_Studio/blob/main/Screenshot_20251202_213132.png?raw=true)
+
+
 ## 📂 Estrutura do Projeto
 
 ```
@@ -68,6 +71,7 @@ git clone https://github.com/stephanimelo/Layout_Android_Studio.git
 5. Clique em **Run ▶**
 
 ---
+
 
 
 
