@@ -83,5 +83,4 @@ git clone https://github.com/stephanimelo/Layout_Android_Studio.git
 ---
 
 
-Quer que eu deixe ainda mais profissional? Quer que eu crie o GIF para você?
 
